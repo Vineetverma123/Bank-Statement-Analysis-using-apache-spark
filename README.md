@@ -9,6 +9,23 @@ This project leverages Apache Spark to deliver scalable, high-performance analys
  Spark
  HDFS
  Hive
+
+ ## Project Structure
+
+ banking_p2.ipynb: Jupyter notebook containing the core analysis and processing logic.
+ credit card.csv: Dataset containing credit card transaction records.
+ loan.csv: Dataset containing loan information.
+ loan_dataset_commands.txt: Text file with Spark SQL commands related to the loan dataset.
+ txn.csv: Dataset containing general transaction records.​
+
+ ## Features
+
+ 1) Data Ingestion: Reads and parses CSV files containing transaction, credit card, and loan data.
+ 2) Data Cleaning: Handles missing values, duplicates, and inconsistent data entries.
+ 3) Data Transformation: Applies necessary transformations to prepare data for analysis.
+ 4) Analytical Queries: Performs various analytical operations to extract insights.
+ 5) Visualization: Generates plots and charts to visualize transaction patterns and trends.
+ 6) Fraud Detection: Identifies anomalous transactions that may indicate fraudulent activity.​
                           
  ## ROLES AND RESPONSIBLITIES:
  Collaborated in a team of 4 members using visual studios.
