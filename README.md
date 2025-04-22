@@ -11,7 +11,7 @@ This is the first project where we worked on apache spark, In this project what 
  Hive
                           
  ## ROLES AND RESPONSIBLITIES:
- Collaborated in a team of 6 members using version control with Git/Github.
+ Collaborated in a team of 4 members using visual studios.
  Utilized the historical data from kaggle.com.
  Collected 3 datasets of online transactions, loan and customer credit card.
  Implemented Spark Session to load the data into Data Frames.
