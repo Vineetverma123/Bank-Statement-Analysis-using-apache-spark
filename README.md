@@ -12,11 +12,11 @@ This project leverages Apache Spark to deliver scalable, high-performance analys
 
  ## Project Structure
 
- banking_p2.ipynb: Jupyter notebook containing the core analysis and processing logic.
- credit card.csv: Dataset containing credit card transaction records.
- loan.csv: Dataset containing loan information.
- loan_dataset_commands.txt: Text file with Spark SQL commands related to the loan dataset.
- txn.csv: Dataset containing general transaction records.​
+ 1) banking_p2.ipynb: Jupyter notebook containing the core analysis and processing logic.
+ 2) credit card.csv: Dataset containing credit card transaction records.
+ 3) loan.csv: Dataset containing loan information.
+ 4) loan_dataset_commands.txt: Text file with Spark SQL commands related to the loan dataset.
+ 5) txn.csv: Dataset containing general transaction records.​
 
  ## Features
 
